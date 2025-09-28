@@ -1,0 +1,23 @@
+export const COUNTRY_CITY = {
+    "United States": [
+    "New York",
+    "Los Angeles",
+    "Chicago",
+    "Houston",
+    "Phoenix",
+    "Dallas",
+    "Seattle",
+    "San Francisco",
+    "Atlanta",
+    "Boston",
+],
+Canada: ["Toronto", "Vancouver", "Montreal", "Calgary", "Ottawa"],
+Mexico: ["Mexico City", "Guadalajara", "Monterrey", "Puebla"],
+"United Kingdom": ["London", "Manchester", "Birmingham", "Leeds", "Glasgow"],
+Germany: ["Berlin", "Munich", "Hamburg", "Frankfurt", "Cologne"],
+France: ["Paris", "Lyon", "Marseille", "Toulouse", "Nice"],
+India: ["Mumbai", "Delhi", "Bengaluru", "Chennai", "Hyderabad", "Kolkata"],
+Australia: ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide"],
+Japan: ["Tokyo", "Osaka", "Nagoya", "Sapporo", "Fukuoka"],
+UAE: ["Dubai", "Abu Dhabi", "Sharjah"],
+}
